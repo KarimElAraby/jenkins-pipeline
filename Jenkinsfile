@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('test-git') {
             steps {
-                echo 'Hello Araby'
+                sh "echo 'Hello Araby'"
             }
         }
     }
