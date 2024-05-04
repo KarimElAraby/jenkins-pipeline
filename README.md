@@ -51,3 +51,13 @@ docker exec -it <container_id> cat /var/jenkins_home/secrets/initialAdminPasswor
 5- Save the pipeline configuration.
 
 ![Screenshot from 2024-05-04 03-10-58](https://github.com/KarimElAraby/jenkins-pipeline/assets/137705973/cd3d68bd-eda7-474b-b938-470fdcb1f581)
+
+### Step 4: Push any changes
+
+###### Do any changes inside any file in your repository and Jenkins will trigger this changes and work
+
+![Screenshot from 2024-05-04 02-46-35](https://github.com/KarimElAraby/jenkins-pipeline/assets/137705973/e5b4f7c6-27fd-4c2c-af76-472fe81e6a61)
+
+![Screenshot from 2024-05-04 02-46-40](https://github.com/KarimElAraby/jenkins-pipeline/assets/137705973/01d8d24b-46ee-43e1-8c25-069b3d0741f2)
+
+![Screenshot from 2024-05-04 02-46-49](https://github.com/KarimElAraby/jenkins-pipeline/assets/137705973/77a20db6-d654-4e5c-88cf-3ef81049645a)
